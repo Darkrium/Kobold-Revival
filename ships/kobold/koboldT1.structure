@@ -1,20 +1,23 @@
 {
-	"config":{
-		"shipUpgrades":{
-			"capabilities":[],
-			"maxFuel":2500,
-		"crewSize":2
-		}
-	},
-	"backgroundOverlays":[{
-		"image":"koboldT1.png",
-		"position":[0, 0],
-		"fullbright":true
-	},
-	{
-		"image":"koboldT1lit.png",
-		"position":[0, 0]
-	}],
-	"blockKey":"blockKey.config:blockKey",
-	"blockImage":"koboldT1blocks.png"
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "floranT1.png",
+      "position" : [8, 12],
+      "fullbright" : true
+    },
+    {
+      "image" : "floranT1lit.png",
+      "position" : [8, 12]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "floranT1blocks.png"
 }
