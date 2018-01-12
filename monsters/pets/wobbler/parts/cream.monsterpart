@@ -1,0 +1,8 @@
+{
+	"name":"cream",
+	"category":"petwobbler",
+	"type":"body",
+	"frames":{
+		"body":"cream.png"
+	}
+}

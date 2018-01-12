@@ -1,0 +1,4 @@
+[
+	{"op":"add", "path":"/species/-", "value":"kobold"},
+	{"op":"add", "path":"/defaultCodexes/kobold", "value":["protectorate1", "protectorate2", "koboldorigins", "koboldambition"]}
+]

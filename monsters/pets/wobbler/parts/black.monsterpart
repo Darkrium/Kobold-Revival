@@ -1,0 +1,8 @@
+{
+	"name":"black",
+	"category":"petwobbler",
+	"type":"body",
+	"frames":{
+		"body":"black.png"
+	}
+}

@@ -1,0 +1,45 @@
+{
+  "itemName" : "koboldwrap",
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Stylish and warmish!",
+  "shortdescription" : "Kobold Wrap",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 0
+    },
+    {
+      "stat" : "maxHealth",
+      "amount" : 5
+    }
+  ],
+
+  "colorOptions" : [
+    /* REGULAR */
+	// Darkest: second darkest: outside right: middle color: weird color: upper line
+    { "352012" : "352012", "442918" : "442918", "5f412c" : "5f412c", "744425" : "744425", "764c30" : "764c30", "653e25" : "653e25"	},
+     //GREY
+    { "352012" : "1f1f1f", "442918" : "282828", "5f412c" : "3f3f3f", "744425" : "434343", "764c30" : "4b4b4b", "653e25" : "3d3d3d"	},
+	// Tan
+    { "352012" : "927432", "442918" : "9b7937", "5f412c" : "a78d4d", "744425" : "c1973d", "764c30" : "b89750", "653e25" : "b28f42"	},
+	//Dark Brown
+	{ "352012" : "231405", "442918" : "2d1907", "5f412c" : "3e2912", "744425" : "4e2c0a", "764c30" : "4e3012", "653e25" : "4e3012"	}
+  ]
+}

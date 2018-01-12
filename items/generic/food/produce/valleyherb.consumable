@@ -1,0 +1,15 @@
+{
+	"itemName":"valleyherb",
+	"rarity":"Common",
+	"category":"food",
+	"eventCategory":"eventCrop",
+	"inventoryIcon":"valleyherb.png",
+	"description":"Not an exceptionally pleasant thing to eat. Maybe if you processed it...",
+	"shortdescription":"Valley Herb",
+	"effects":[[
+		{
+			"kind":"food",
+			"amount":10
+		}
+	]]
+}

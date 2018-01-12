@@ -1,0 +1,25 @@
+{
+  "itemName" : "weirdpanties",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Umm... I think you are wearing those wrong.",
+  "shortdescription" : "Helmet For Pants",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 0
+    }
+  ],
+  "colorOptions" : [
+    //Standard Move from Left to Right
+	/* PINK */
+    { "d68ec0" : "d68ec0", "e9a6d5" : "e9a6d5", "f08cd2" : "f08cd2", "f86b96" : "f86b96" }
+  ]
+}

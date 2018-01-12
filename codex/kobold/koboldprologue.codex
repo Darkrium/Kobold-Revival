@@ -1,0 +1,20 @@
+{
+	"id":"koboldprologue",
+	"species":"kobold",
+	"title":"A Kobold Journey Begins",
+	"description":"So many shiny, so not meat.",
+	"icon":"koboldcover1.png",
+	"contentPages":[
+
+		"On moon sky time, Jreengus occurred.  Walking plant come.  Bring shinies.  Try find gift for return!
+
+		Find shiny room, lots of blinky stars on table.  Push table.  Everything spin!
+
+		Uh oh..."
+
+	],
+	"itemConfig":{
+		"rarity":"common",
+		"price":25
+	}
+}

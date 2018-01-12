@@ -1,0 +1,8 @@
+{
+	"input":[
+		{"item":"refinedaegisalt", "count":6}
+	],
+	"duration":5,
+	"output":{"item":"koboldtier5head", "count":1},
+	"groups":["craftingaccelerator", "armors", "all"]
+}

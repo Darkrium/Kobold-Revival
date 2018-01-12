@@ -1,0 +1,8 @@
+{
+	"name":"calico",
+	"category":"petwobbler",
+	"type":"body",
+	"frames":{
+		"body":"calico.png"
+	}
+}

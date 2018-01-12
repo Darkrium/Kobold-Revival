@@ -1,0 +1,3 @@
+[
+	{"op":"add", "path":"/species/kobold", "value":{"aiFrames":"koboldai.png", "portraitFrames":"portraits/koboldportrait.png", "staticFrames":"statickobold.png"}}
+]

@@ -1,0 +1,29 @@
+{
+	"kind":"snailsalve",
+	"definition":{
+		"duration":0.05,
+		"loops":true,
+		"start":{
+			"particles":[
+				["snailsalvemessage"]
+			],
+			"sounds":[
+				["/sfx/statuseffects/powerup.wav"]
+			]
+		},
+		"particles":[
+			["snailsalve"]
+		],
+		"sounds":[
+			[]
+		],
+		"stop":{
+			"particles":[
+				[]
+			],
+			"sounds":[
+				[]
+			]
+		}
+	}
+}

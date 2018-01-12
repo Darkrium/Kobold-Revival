@@ -1,0 +1,16 @@
+{
+	"itemName":"fluffywambler",
+	"rarity":"Common",
+	"category":"food",
+	"inventoryIcon":"fluffywambler.png",
+	"description":"Such a cute, fluffy crunchy little guy! Cook to get at the bones!",
+	"shortdescription":"Fluffy Wambler",
+	"foodValue":15,
+	"tooltipKind":"food",
+	"maxStack":1,
+	"effects":[[
+		{
+			"effect":"wellfed"
+		}
+	]],
+}

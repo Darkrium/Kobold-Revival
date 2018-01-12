@@ -1,0 +1,18 @@
+{
+  "itemName" : "snakesalve",
+  "rarity" : "Common",
+  "inventoryIcon" : "snakesalve.png",
+  "description" : "Hopefully this isn't just poison....",
+  "shortdescription" : "Salve of the Snake",
+  "handPosition" : [0, 4],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      },
+      {
+        "kind" : "snakesalve",
+        "amount" : 0.5
+      }
+    ] ]
+}

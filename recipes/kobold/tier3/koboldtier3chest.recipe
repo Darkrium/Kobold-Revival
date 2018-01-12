@@ -1,0 +1,8 @@
+{
+  "input":[
+    { "item":"titaniumbar", "count":10 }
+  ],
+  "duration":5,
+  "output":{ "item":"koboldtier3chest", "count":1 },
+  "groups":[ "craftinganil2", "armours", "all" ]
+}

@@ -1,0 +1,18 @@
+{
+  "itemName" : "snailsalve",
+  "rarity" : "Common",
+  "inventoryIcon" : "snailsalve.png",
+  "description" : "For when you just can't take more hits.",
+  "shortdescription" : "Salve of the Snail",
+  "handPosition" : [0, 4],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      },
+      {
+        "kind" : "snailsalve",
+        "amount" : 1
+      }
+    ] ]
+}

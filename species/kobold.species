@@ -1,0 +1,232 @@
+{
+	"kind":"kobold",
+	"charCreationTooltip":{
+		"title":"Kobold",
+		"subTitle":"We",
+		"description":"Kobolds have a long, varied history as weak little beasts who at best provide short times of amusement for angry heroes. One offshoot of this mythos is the ''cutebold'' from the very excellent game Dwarf Fortress. These specific 'bolds are daring, adorable, and terribly useless in all manner of situations."
+	},
+	"nameGen":["/species/koboldnamegen.config:names", "/species/koboldnamegen.config:names"],
+	"ouchNoises":["/sfx/humanoid/koboldmalehurt1.wav", "/sfx/humanoid/koboldmalehurt1.wav"],
+	"gruntNoises":[["/sfx/humanoid/humangrunt1.wav", "/sfx/humanoid/humangrunt2.wav"], ["/sfx/humanoid/humangrunt1.wav", "/sfx/humanoid/humangrunt2.wav"]],
+	"charGenTextLabels":["Fur Color", "Ears", "Shirt", "Pants", "Bodypaint TBA", "Warpaint", "Shirt Color", "Pants Color", "Kobold", "Personality"],
+	"skull":"/humanoid/human/dead.png",
+	"defaultBlueprints":{
+		"tier1":[
+			//Hand
+		
+			//Crafting table
+		
+			//Anvil
+			{"item":"koboldtier1head"},
+			{"item":"koboldtier1chest"},
+			{"item":"koboldtier1pants"},
+			
+			//Spinningwheel
+			{"item":"koboldaltar"},
+			{"item":"spiritanvil"},
+			{"item":"crittercatcher"},
+			{"item":"koboldtier1broadsword"},
+			{"item":"wolfspirittier1broadsword"},
+			{"item":"koboldtier1shortsword"},
+			{"item":"koboldtier1hammer"},
+			{"item":"koboldtier1spear"},
+			{"item":"koboldtier1axe"},
+			{"item":"koboldtier1dagger"},
+			{"item":"koboldbonehead"},
+			{"item":"koboldbonechest"},
+			{"item":"koboldbonelegs"},
+			{"item":"koboldloincloth"},
+			{"item":"koboldnecklace"},
+			{"item":"koboldpanties"},
+			{"item":"koboldwrap"},
+			{"item":"raggedloincloth"},
+			{"item":"raggedshirt"},
+			{"item":"tapestrypants"},
+			{"item":"weirdpanties"},
+			{"item":"burger"},
+			{"item":"vegetablesoup"},
+			{"item":"bread"},
+			{"item":"sweetcorn"},
+			{"item":"candyapple"},
+			{"item":"icecream"},
+			{"item":"flaghuman"},
+			{"item":"goldensalve"},
+			{"item":"cubsalve"},
+			{"item":"dogsalve"},
+			{"item":"fishsalve"},
+			{"item":"snailsalve"},
+			{"item":"snakesalve"},
+			{"item":"coppersacrifice"},
+			{"item":"ironsacrifice"},
+			{"item":"fluffywambler"},
+			{"item":"bones"},
+			{"item":"petwambler"}
+		],
+		"tier2":[
+			{"item":"koboldtier2hammer"},
+			{"item":"koboldtier2shortsword"},
+			{"item":"koboldtier2broadsword"},
+			{"item":"hammeredsteelspear"},
+			{"item":"koboldtier2axe"},
+			{"item":"koboldtier2dagger"},
+			{"item":"koboldtier2head"},
+			{"item":"koboldtier2chest"},
+			{"item":"koboldtier2pants"},
+			{"item":"steelsacrifice"},
+			{"item":"spawnerkobold"}
+		],
+		"tier3":[
+			{"item":"koboldtier3head"},
+			{"item":"koboldtier3chest"},
+			{"item":"koboldtier3pants"},
+			{"item":"koboldtier3hammer"},
+			{"item":"koboldtier3shortsword"},
+			{"item":"koboldtier3broadsword"},
+			{"item":"koboldtier3spear"},
+			{"item":"koboldtier3axe"},
+			{"item":"koboldtier3dagger"},
+			{"item":"titaniumsacrifice"}
+		],
+		"tier4":[
+			{"item":"koboldtier4head"},
+			{"item":"koboldtier4chest"},
+			{"item":"koboldtier4pants"},
+			{"item":"koboldtier4hammer"},
+			{"item":"koboldtier4shortsword"},
+			{"item":"koboldtier4broadsword"},
+			{"item":"koboldtier4spear"},
+			{"item":"koboldtier4axe"},
+			{"item":"koboldtier4dagger"},
+			{"item":"durasteelsacrifice"}
+		],
+		"level32":[
+			{"item":"koboldtier5head"},
+			{"item":"koboldtier5chest"},
+			{"item":"koboldtier5pants"},
+			{"item":"koboldtier5hammer"},
+			{"item":"koboldtier5shortsword"},
+			{"item":"koboldtier5broadsword"},
+			{"item":"koboldtier5spear"},
+			{"item":"koboldtier5axe"},
+			{"item":"koboldtier5dagger"},
+			{"item":"aegisaltsacrifice"}
+		],
+		"level33":[
+			{"item":"koboldtier6head"},
+			{"item":"koboldtier6chest"},
+			{"item":"koboldtier6pants"},
+			{"item":"koboldtier6hammer"},
+			{"item":"koboldtier6shortsword"},
+			{"item":"koboldtier6broadsword"},
+			{"item":"koboldtier6spear"},
+			{"item":"koboldtier6axe"},
+			{"item":"koboldtier6dagger"},
+			{"item":"feroziumsacrifice"}
+		],
+		"level34":[
+			{"item":"koboldtier7head"},
+			{"item":"koboldtier7chest"},
+			{"item":"koboldtier7pants"},
+			{"item":"koboldtier7hammer"},
+			{"item":"koboldtier7shortsword"},
+			{"item":"koboldtier7broadsword"},
+			{"item":"koboldtier7spear"},
+			{"item":"koboldtier7axe"},
+			{"item":"koboldtier7dagger"},
+			{"item":"ceruliumsacrifice"}
+		],
+		"level35":[
+			{"item":"koboldtier8head"},
+			{"item":"koboldtier8chest"},
+			{"item":"koboldtier8pants"},
+			{"item":"koboldtier8hammer"},
+			{"item":"koboldtier8shortsword"},
+			{"item":"koboldtier8broadsword"},
+			{"item":"koboldtier8spear"},
+			{"item":"koboldtier8axe"},
+			{"item":"koboldtier8dagger"},
+			{"item":"violiumsacrifice"}
+		],
+		"level36":[
+			{"item":"koboldtier9head"},
+			{"item":"koboldtier9chest"},
+			{"item":"koboldtier9pants"},
+			{"item":"koboldtier9hammer"},
+			{"item":"koboldtier9shortsword"},
+			{"item":"koboldtier9broadsword"},
+			{"item":"koboldtier9spear"},
+			{"item":"koboldtier9axe"},
+			{"item":"koboldtier9dagger"},
+			{"item":"rubiumsacrifice"}
+		],
+		"level37":[
+			{"item":"koboldtier10head"},
+			{"item":"koboldtier10chest"},
+			{"item":"koboldtier10pants"},
+			{"item":"koboldtier10hammer"},
+			{"item":"koboldtier10shortsword"},
+			{"item":"koboldtier10broadsword"},
+			{"item":"koboldtier10spear"},
+			{"item":"koboldtier10axe"},
+			{"item":"koboldtier10dagger"},
+			{"item":"imperviumsacrifice"}
+		]
+	},
+	"headOptionAsFacialhair":true,
+	"altOptionAsUndyColor":true,
+	"genders":[
+		{
+			"name":"male",
+			"image":"/interface/title/male.png",
+			"characterImage":"/interface/title/koboldmale.png",
+			"hair":["1", "2", "3", "4"],
+			"shirt":["koboldnecklace", "koboldwrap", "raggedshirt"],
+			"pants":["koboldloincloth", "raggedloincloth", "tapestrypants", "weirdpanties"],
+			"facialHairGroup":"warpaint",
+			"facialHair":["1", "2", "2blue", "2green", "2purple", "3", "3blue", "3green", "3purple", "4", "4blue", "4green", "4purple", "4hofstra"],
+			"facialMaskGroup":"",
+			"facialMask":[]
+		},
+		{
+			"name":"female",
+			"image":"/interface/title/female.png",
+			"characterImage":"/interface/title/koboldfemale.png",
+			"hair":["1", "2", "3", "4"],
+			"shirt":["koboldnecklace", "koboldwrap", "raggedshirt"],
+			"pants":["koboldloincloth", "raggedloincloth", "tapestrypants", "weirdpanties"],
+			"facialHairGroup":"warpaint",
+			"facialHair":["1", "2", "2blue", "2green", "2purple", "3", "3blue", "3green", "3purple", "4", "4blue", "4green", "4purple", "4hofstra"],
+			"facialMaskGroup":"",
+			"facialMask":[]
+		}
+	], 
+	"bodyColor":[
+		{"e7e7e7":"e52727", "d0d0d0":"b71919", "adadad":"b50000", "a2a2a2":"9b0000", "797979":"750000"}, //Red
+		{"e7e7e7":"e88f3c", "d0d0d0":"e28731", "adadad":"e87000", "a2a2a2":"d36600", "797979":"c45e00"}, //Orange
+		{"e7e7e7":"f7f467", "d0d0d0":"e5e247", "adadad":"d6d200", "a2a2a2":"c1be00", "797979":"aaa800"}, //Yellow
+		{"e7e7e7":"bcd4e6", "d0d0d0":"aec6cf", "adadad":"91a3b0", "a2a2a2":"778899", "797979":"708090"}, //bluegrey
+		{"e7e7e7":"915700", "d0d0d0":"774700", "adadad":"633b00", "a2a2a2":"492c00", "797979":"352000"}, //Brown
+		{"e7e7e7":"d8c058", "d0d0d0":"d09038", "adadad":"906838", "a2a2a2":"705028", "797979":"533b1c"}, //tan
+		{"e7e7e7":"f1f2f2", "d0d0d0":"e5e8e8", "adadad":"d5d8d8", "a2a2a2":"ced3d3", "797979":"bac1c1"}, //white
+		{"e7e7e7":"e7e7e7", "d0d0d0":"d0d0d0", "adadad":"adadad", "a2a2a2":"a2a2a2", "797979":"797979"}, //defaultgrey
+		{"e7e7e7":"333a3a", "d0d0d0":"2f3434", "adadad":"262b2b", "a2a2a2":"232828", "797979":"1a1d1d"}, //black
+		{"e7e7e7":"e9d0ca", "d0d0d0":"dcb4ab", "adadad":"c9897a", "a2a2a2":"c37b6a", "797979":"9f5140"} //shaved
+	],
+	"undyColor":[
+		{"dc1f00":"4d76ad", "be1b00":"395187", "951500":"20325b"},
+		{"dc1f00":"7c41b8", "be1b00":"6c2f90", "951500":"471962"},
+		{"dc1f00":"c63442", "be1b00":"9b2724", "951500":"6a1210"},
+		{"dc1f00":"eaa245", "be1b00":"b47020", "951500":"834a0c"},
+		{"dc1f00":"e3e13a", "be1b00":"a8a614", "951500":"848008"},
+		{"dc1f00":"6ab841", "be1b00":"45902f", "951500":"296219"},
+		{"dc1f00":"535353", "be1b00":"363636", "951500":"111111"},
+		{"dc1f00":"e6e6e6", "be1b00":"979797", "951500":"6f6f6f"},
+		{"dc1f00":"9e9e9e", "be1b00":"6e6e6e", "951500":"434343"},
+		{"dc1f00":"f794f8", "be1b00":"d355c1", "951500":"b72c95"}
+	],
+	"hairColor":[ 
+		{"9e1a04":"9e1a04", "852212":"852212", "590c00":"590c00"},
+		{"9e1a04":"2288bb", "852212":"2288bb", "590c00":"2288bb"},
+		{"9e1a04":"c0e1ee", "852212":"c0e1ee", "590c00":"c0e1ee"}
+	]
+}

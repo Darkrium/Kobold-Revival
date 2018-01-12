@@ -1,0 +1,29 @@
+{
+	"kind":"dogsalve",
+	"definition":{
+		"duration":0.05,
+		"loops":true,
+		"start":{
+			"particles":[
+				["dogsalvemessage"]
+			],
+			"sounds":[
+				["/sfx/statuseffects/powerup.wav"]
+			]
+		},
+		"particles":[
+			["dogsalve"]
+		],
+		"sounds":[
+			[]
+		],
+		"stop":{
+			"particles":[
+				[]
+			],
+			"sounds":[
+				[]
+			]
+		}
+	}
+}

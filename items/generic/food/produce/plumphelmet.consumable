@@ -1,0 +1,15 @@
+{
+	"itemName":"plumphelmet",
+	"rarity":"Common",
+	"category":"food",
+	"eventCategory":"eventCrop",
+	"inventoryIcon":"plumphelmet.png",
+	"description":"Filling and resilient. Just like dwarves.",
+	"shortdescription":"Plump Helmet",
+	"effects":[[
+		{
+			"kind":"food",
+			"amount":25
+		}
+    ]]
+}

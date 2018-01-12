@@ -1,0 +1,8 @@
+{
+	"name":"tabby2",
+	"category":"petwobbler",
+	"type":"body",
+	"frames":{
+		"body":"tabby2.png"
+	}
+}

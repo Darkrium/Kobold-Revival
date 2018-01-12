@@ -1,0 +1,18 @@
+{
+  "itemName" : "dogsalve",
+  "rarity" : "Common",
+  "inventoryIcon" : "dogsalve.png",
+  "description" : "Just add snips and snails.",
+  "shortdescription" : "Salve of the Dog",
+  "handPosition" : [0, 4],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      },
+      {
+        "kind" : "dogsalve",
+        "amount" : 0.25
+      }
+    ] ]
+}

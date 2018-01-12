@@ -1,0 +1,18 @@
+{
+  "itemName" : "cubsalve",
+  "rarity" : "Common",
+  "inventoryIcon" : "cubsalve.png",
+  "description" : "Drink to prevent boo boos.",
+  "shortdescription" : "Salve of the Cub",
+  "handPosition" : [0, 4],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      },
+      {
+        "kind" : "cubsalve",
+        "amount" : 1
+      }
+    ] ]
+}

@@ -1,0 +1,18 @@
+{
+	"id":"koboldambition",
+	"species":"kobold",
+	"title":"A Kobold's Goal",
+	"description":"How Do I Get Back Home?",
+	"icon":"koboldcover1.png",
+	"contentPages":[
+
+		"How did you get out here?  Why is there so much space?  How are the little lights so shiny?
+
+		You must decide your goal.  Perhaps it is riches and shinies.  Perhaps it is just to get home.  Or maybe, just maybe, you will find the gods."
+
+	],
+	"itemConfig":{
+		"rarity":"common",
+		"price":25
+	}
+}

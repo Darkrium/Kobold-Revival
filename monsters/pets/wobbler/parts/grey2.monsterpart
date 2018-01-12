@@ -1,0 +1,8 @@
+{
+	"name":"grey2",
+	"category":"petwobbler",
+	"type":"body",
+	"frames":{
+		"body":"grey2.png"
+	}
+}

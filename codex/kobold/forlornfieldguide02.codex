@@ -1,0 +1,20 @@
+{
+	"id":"forlornfieldguide02",
+	"species":"kobold",
+	"title":"A Most Curious Mourning #2",
+	"description":"A Most Curious Mourning #2",
+	"icon":"koboldforlornbook_02.png",
+	"contentPages":[
+
+		"These Forlorn appear to be saved for only specific duties.  While there are a number of kobold guards about that are most friendly and cheerful to talk to, these spectres haunt the temples to the spirits.  There is quite a bit of politicking involved in this, as several temples apparently do not accept Forlorn guards.
+
+		The Forlorn constantly maintain a dour persona and speak little, uttering soft murmers or whispers of self-blame often enough.  While the rest of the population seems able to move past the deaths of their kin, the Forlorn seem to bask in it and live every moment in remembrance.  
+
+		But what is strangest of all is how they attire themselves..."
+
+	],
+	"itemConfig":{
+		"rarity":"common",
+		"price":25
+	}
+}

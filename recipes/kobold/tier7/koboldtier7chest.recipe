@@ -1,0 +1,7 @@
+{
+	"input":[
+		{"item":"refinedferozium", "count":10}
+	],
+	"output":{"item":"koboldtier7chest", "count":1},
+	"groups":["manipulatortable", "armors", "all"]
+}

@@ -1,0 +1,3 @@
+[
+	{"op":"add", "path":"/speciesShips/kobold", "value":["/ships/kobold/floranT0.structure", "/ships/kobold/floranT1.structure", "/ships/kobold/floranT2.structure", "/ships/kobold/floranT3.structure", "/ships/kobold/floranT4.structure", "/ships/kobold/floranT5.structure", "/ships/kobold/floranT6.structure", "/ships/kobold/floranT7.structure", "/ships/kobold/floranT8.structure"]}
+]

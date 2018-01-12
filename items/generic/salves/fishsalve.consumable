@@ -1,0 +1,18 @@
+{
+  "itemName" : "fishsalve",
+  "rarity" : "Common",
+  "inventoryIcon" : "fishsalve.png",
+  "description" : "No, this isn't just fish oil.",
+  "shortdescription" : "Salve of the Fish",
+  "handPosition" : [0, 4],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      },
+      {
+        "kind" : "fishsalve",
+        "amount" : 1
+      }
+    ] ]
+}

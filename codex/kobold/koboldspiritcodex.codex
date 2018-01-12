@@ -1,0 +1,20 @@
+{
+	"id":"koboldspiritcodex",
+	"species":"kobold",
+	"title":"Kobold Spirit Tutorial",
+	"description":"Kobold Spirit Tutorial",
+	"icon":"koboldcover1.png",
+	"contentPages":[
+
+		"An important part of any kobold warrior's life is learning to craft spirit weapons. Kobolds lack the technology to create exceptionally advanced technology, so they have relied upon animal spirits to give them courage, fortitude, and strength. Weapons carved for spirits to inhabit are created at the spirit anvil.
+
+		Note: The tiered weaponry of the kobold mod is currently somewhat lacking. We're working on fixing this at which point this codex will have much more information. For now, the available recipes are on the next page.
+
+		Tier 1 Wolf Spirit Sword: hammeredironsword (10 iron ore at the kobold altar) and 10 wolf spirits (gained by sacrificing through the altar). Tier 2 Snake Spear: hammered iron spear (4 tungsten bars at the altar) and 15 snake spirits (gained by sacrificing at the altar). All combinations are completed at the spirit anvil."
+
+	],
+	"itemConfig":{
+		"rarity":"common",
+		"price":25
+	}
+}

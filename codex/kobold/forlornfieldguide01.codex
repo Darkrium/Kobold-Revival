@@ -1,0 +1,20 @@
+{
+	"id":"forlornfieldguide01",
+	"species":"kobold",
+	"title":"A Most Curious Mourning #1",
+	"description":"A Most Curious Mourning #1",
+	"icon":"koboldforlornbook_01.png",
+	"contentPages":[
+
+		"It is odd enough for an Apex like myself to be surrounded by such savage beasts as these kobolds.  Indeed, were it not for the Miniknog's relentless pursuit of this scholar, I would not have stopped in their untidy little village.
+
+		But what I have found most curious of all is how the beasts deal with death.  They are a flimsy people with little in the way of weaponry or armour, so death is not uncommon for them.  Indeed, a harsh end greets most of them.  Many take this in stride, simply continuing on with their own lives.  
+
+		Those who cannot become what the kobolds call 'The Forlorn."
+
+	],
+	"itemConfig":{
+		"rarity":"common",
+		"price":25
+	}
+}
