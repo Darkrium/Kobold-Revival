@@ -13,14 +13,14 @@
 	"defaultBlueprints":{
 		"tier1":[
 			//Hand
-		
+
 			//Crafting table
-		
+
 			//Anvil
 			{"item":"koboldtier1head"},
 			{"item":"koboldtier1chest"},
 			{"item":"koboldtier1pants"},
-			
+
 			//Spinningwheel
 			{"item":"koboldaltar"},
 			{"item":"spiritanvil"},
@@ -199,7 +199,7 @@
 			"facialMaskGroup":"",
 			"facialMask":[]
 		}
-	], 
+	],
 	"bodyColor":[
 		{"e7e7e7":"e52727", "d0d0d0":"b71919", "adadad":"b50000", "a2a2a2":"9b0000", "797979":"750000"}, //Red
 		{"e7e7e7":"e88f3c", "d0d0d0":"e28731", "adadad":"e87000", "a2a2a2":"d36600", "797979":"c45e00"}, //Orange
@@ -224,7 +224,7 @@
 		{"dc1f00":"9e9e9e", "be1b00":"6e6e6e", "951500":"434343"},
 		{"dc1f00":"f794f8", "be1b00":"d355c1", "951500":"b72c95"}
 	],
-	"hairColor":[ 
+	"hairColor":[
 		{"9e1a04":"9e1a04", "852212":"852212", "590c00":"590c00"},
 		{"9e1a04":"2288bb", "852212":"2288bb", "590c00":"2288bb"},
 		{"9e1a04":"c0e1ee", "852212":"c0e1ee", "590c00":"c0e1ee"}
