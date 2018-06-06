@@ -1,0 +1,148 @@
+[
+	{
+		"op":"add",
+		"path":"/converse/kobold",
+		"value":{
+			"default":[
+				"Hiya",
+				"Hi I'm <selfname>, Who you?",
+				"Like it around?",
+				"You came this far to visit us?",
+				"*hums to self*"
+			],
+			"apex":[
+				"Cuddle time!"
+			],
+			"avian":[
+				"Hi birdy!",
+				"Can you fly?",
+				"Would you like to cuddle?",
+				"Your feathers are pretty.",
+				"<Nuzzles>"
+			],
+			"floran":[
+				"Talking flower!",
+				"You look strong.",
+				"What do you taste like?",
+				"<Nuzzles>"
+			],
+			"human":[
+				"What are you?",
+				"Why are you missing fur?",
+				"Do you like to cuddle too?",
+				"<Nuzzles>"
+			],
+			"hylotl":[
+				"Walking fishy!",
+				"Is fish afraid of fire?",
+				"<Nuzzles>"
+			],
+			"glitch":[
+				"What are you!",
+				"You are scary..",
+				"You are really cold",
+				"Are you metal?",
+				"<Nuzzles> Ack cold!"
+			],
+			"kobold":[
+				"Greetings friend!",
+				"Maybe later we can cuddle-puddle.",
+				"<Nuzzles>",
+				"Can I give you a hug?",
+				"Need a hug?",
+				"It's cuddle time!",
+				"Would you cuddle me?",
+				"Friend!"
+			]
+		}
+	},
+	{
+		"op":"add",
+		"path":"/converse/apex/kobold",
+		"value":[
+			"Greetings, my fluffy friend.",
+			"Please don't distract me, they'll dock my pay or worse.",
+			"No offense, but the smell is bothering me.",
+			"Are you crazy, the Miniknog will come for you being here!",
+			"Perhaps you could assist me, kobold.",
+			"Do not come too close to me...",
+			"Would you care for a banana? I suppose not."
+		]
+	},
+	{
+		"op":"add",
+		"path":"/converse/floran/kobold",
+		"value":[
+			"Not sssstab, yet.",
+			"Fluffy critter look tasty.",
+			"Are you edible?",
+			"Do you like hunting too?",
+			"We ssshould go hunting fluffy friend",
+			"You can't hunt asss good asss me."
+		]
+	},
+	{
+		"op":"add",
+		"path":"/converse/human/kobold",
+		"value":[
+			"You're so cute! Can I keep you?",
+			"Ugh, savages.",
+			"Keep walking...",
+			"Ugh, you smell horrible, when did you last bathe?",
+			"Oh no, the invasion's begun!",
+			"Please don't come too close, I think I might be allergic.",
+			"You're soft. Can I cuddle you?"
+		]
+	},
+	{
+		"op":"add",
+		"path":"/converse/glitch/kobold",
+		"value":[
+			"Cordial. Well met.",
+			"Cordial. Greetings alien.",
+			"Bothered. Please don't touch everything.",
+			"Curt. This is a no-hunting area. Please hunt elsewhere.",
+			"Disgusted. Olfactory sensors detect elevated ammonia levels. Simply put, you smell.",
+			"Delighted. What wondrous plumage, may I obtain some?",
+			"Curious. What interesting physique, how have you lasted so long?",
+			"Flirtatious. I have some objects of value if you want.",
+			"Frightened. Please do not grin at me like that.",
+			"Careful. May I stroke you?",
+			"Teasing. Here weaklings.",
+			"Annoyed. You smell of fish.",
+			"Curious. Why the propensity towards hunting?"
+		]
+	},
+	{
+		"op":"add",
+		"path":"/converse/hylotl/kobold",
+		"value":[
+			"Ugh, Why are you here?",
+			"Welcome, traveler. Please marvel at our exquisite building designs.",
+			"I don't blame you for coming here, it must be a far cry from your tent-hovel.",
+			"You should learn from us, and use the knowledge to help civilize your own people.",
+			"Is it true the kobold still eat meat?",
+			"*pinches nose* Whelcum to our hnumble abod- *gag* it's no good, the smell!",
+			"Ah, a Hunter. I do hope I'm not a target.",
+			"Greetings, kobold..",
+			"Would you like to learn about our architecture?",
+			"Have you and your kind improved your art lately?",
+			"What is it, Hunter?",
+			"Good day to you, Hunter."
+		]
+	},
+	{
+		"op":"add",
+		"path":"/converse/avian/kobold",
+		"value":[
+			"Greetings kobold, welcome to our settlement!",
+			"I bring you the song of our people *Squawks loudly* Why are you cowering, I thought you liked music?",
+			"Is it true your race sleeps on the floor instead of in a nest? How strange.",
+			"Greetings, Hunter.",
+			"Wouldn't you rather chase some prey?",
+			"You're not so bad, aren't you?",
+			"How do you feel about religion, Hunter?",
+			"Teeth!"
+		]
+	}
+]
