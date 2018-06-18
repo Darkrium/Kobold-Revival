@@ -2,9 +2,9 @@
   "name":"Kobold",
   "friendlyName":"Kobolds Revival",
   "description":"Jreengus Occurred!\n\nIf you were one someone who used the kobold race mod like me then you would clearly want to keep those cute guys around right? The answer would be yes.\n\nSo after noticing that it hasn't been updated in a while I decided to go and make it Functional. What I mean by this is that the mod works but it's not quite the same feeling as before. I have no idea how or if I can even disable the matter manipulator as the original mod didn't give kobolds one.\n\nPlease note that I only have access to the very first release of the kobold mod which is v0.1 so if anyone has the latest versionv0.6 and could send me it that would be great. If you can tell I have lots of work to do and lots of planned ideas to add.\n\nThe forums version of this mod is here: http://community.playstarbound.com/resources/kobolds-revival.4796/\nAll the information about the mod can be found on the old mod page: http://community.playstarbound.com/resources/kobold-race.763/\n\nThings to be aware about. The starbound logs will complain about recipes having missing items but the recipes are for high tiers that I don't know what to do with yet. I haven't tested the gear and I haven't changed the stats for anything.\n\nPermision is given to allow anyone to help out with the mod in any way and I plan on doing my best to keep it alive.\n\nI hope this sums it up.",
-  "author" : "CaptainKobold, BucketLamp and Darkrium",
-  "version" : "3.2"
-  "link" : "steam://url/CommunityFilePage/953418513",
-  "priority" : 0,
-  "steamContentId" : "953418513",
+  "author":"CaptainKobold, BucketLamp and Darkrium",
+  "version":"3.2",
+  "link":"steam://url/CommunityFilePage/953418513",
+  "priority":0,
+  "steamContentId":"953418513"
 }

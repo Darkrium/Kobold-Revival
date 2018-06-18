@@ -7,7 +7,7 @@
 	},
 	"nameGen":["/species/koboldnamegen.config:names", "/species/koboldnamegen.config:names"],
 	"ouchNoises":["/sfx/humanoid/koboldmalehurt1.wav", "/sfx/humanoid/koboldmalehurt1.wav"],
-	"gruntNoises":[["/sfx/humanoid/humangrunt1.wav", "/sfx/humanoid/humangrunt2.wav"], ["/sfx/humanoid/humangrunt1.wav", "/sfx/humanoid/humangrunt2.wav"]],
+	"gruntNoises":["/sfx/humanoid/humangrunt1.wav", "/sfx/humanoid/humangrunt2.wav"],
 	"charGenTextLabels":["Fur Color", "Ears", "Shirt", "Pants", "Bodypaint TBA", "Warpaint", "Shirt Color", "Pants Color", "Kobold", "Personality"],
 	"skull":"/humanoid/kobold/dead.png",
 	"defaultBlueprints":{

@@ -1,0 +1,30 @@
+[
+  {
+    "op":"add",
+    "path":"/scriptConfig/merchant/categories/kobold",
+    "value":["basicmerchant", "randomswords"]
+  },
+  {
+    "op":"add",
+    "path":"/items/kobold",
+    "value":[
+      [0, [{
+        "chest":[
+          {"name":"koboldwrap", "parameters":{"colorIndex":1}},
+          {"name":"koboldnecklace", "parameters":{"colorIndex":1}},
+          {"name":"raggedshirt", "parameters":{"colorIndex":1}},
+          {"name":"koboldbonearmor", "parameters":{"colorIndex":1}}
+        ],
+        "legs":[
+          {"name":"kobolloincloth", "parameters":{"colorIndex":1}},
+          {"name":"raggedloincloth", "parameters":{"colorIndex":1}},
+          {"name":"tapestrypants", "parameters":{"colorIndex":1}},
+          {"name":"koboldbonelegs", "parameters":{"colorIndex":1}}
+        ],
+        "head":[
+          {"name":"koboldbonehead", "parameters":{"colorIndex":1}}
+        ]
+     }]]
+    ]
+  }
+]

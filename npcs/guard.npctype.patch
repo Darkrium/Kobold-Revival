@@ -1,0 +1,43 @@
+[
+  {
+    "op":"add",
+    "path":"/items/kobold",
+    "value":[
+      [0, [{
+          "head":[{"name":"koboldtier1head"}],
+          "chest" :[{"name":"koboldtier1chest"}],
+          "legs" :[{"name":"koboldtier1pants"}],
+          "primary":["npcassaultrifle"],
+          "sheathedprimary":["npcbroadsword"]
+        }
+      ]],
+      [2, [
+        {
+          "head":[{"name":"koboldtier2head"}],
+          "chest":[{"name":"koboldtier2chest"}],
+          "legs":[{"name":"koboldtier2pants"}],
+          "primary":["npcpistol", "npcmachinepistol", "npcassaultrifle"],
+          "sheathedprimary":["npcbroadsword"]
+        }
+      ]],
+      [3, [
+        {
+          "head":[{"name":"koboldtier3head"}],
+          "chest":[{"name":"koboldtier3chest"}],
+          "legs":[{"name":"koboldtier3pants"}],
+          "primary":["npcpistol", "npcmachinepistol", "npcassaultrifle"],
+          "sheathedprimary":["npcbroadsword"]
+        }
+      ]],
+      [4, [
+        {
+          "head":[{"name":"koboldtier4head"}],
+          "chest":[{"name":"koboldtier4chest"}],
+          "legs":[{"name":"koboldtier4pants"}],
+          "primary":["npcpistol", "npcmachinepistol", "npcassaultrifle"],
+          "sheathedprimary":["npcbroadsword"]
+        }
+      ]]
+    ]
+  }
+]
